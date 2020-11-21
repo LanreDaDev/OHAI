@@ -111,7 +111,7 @@ console.log(i);
   return (
     <div className="App">
 
-<h1 className="cAlign">Properties by Community(Alphabetical Order A-Z)</h1>
+<h1 className="cAlign w90per mlAuto mrAuto">Properties by Community(Alphabetical Order A-Z)</h1>
   
      <div className="w90per mlAuto mrAuto dFlex jStart flexWrap flexAlCenter contentArea"  >
 
