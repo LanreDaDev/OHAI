@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="96.1" viewBox="0 0 95 96.1" className="housingIcons">
+  <g id="TownHome" transform="translate(-1 -0.5)">
+    <g id="Group_3" data-name="Group 3">
+      <path id="Path_7" data-name="Path 7" d="M96,46.7,75.9,22l-4.7,5.7v-.9L48.5.5,25.8,26.9v.9L21.1,22,1,46.7V89.9H25.8v6.7H71.2V89.9H96ZM17.4,82.3h-4V76.7h4Zm0-15.4h-4V61.3h4Zm0-15.4h-4V45.9h4ZM41,92.5v-21H56v21Zm26.2,0H60v-25H37v25H29.7V28.4L48.5,6.6,67.2,28.4ZM83.5,82.3h-4V76.7h4Zm0-15.4h-4V61.3h4Zm0-15.4h-4V45.9h4Z"/>
+      <path id="Path_8" data-name="Path 8" d="M34.7,33.4H37V51.8H34.7v3.9H46.1V29.4H34.7Z"/>
+      <path id="Path_9" data-name="Path 9" d="M62.3,51.8H59.2V33.4h3.1v-4H50.1V55.7H62.3Z"/>
+    </g>
+  </g>
+</svg>

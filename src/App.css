@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.cardWidth {
+  width: calc(100%);
+  margin-top: 40px;
+}
+.w90per {
+  width: 90%;
+}
+.w100per {
+  width: 100%;
+}
+.card__header {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.dFlex {
+  display: flex;
+}
+.mlAuto {
+  margin-left: auto;
+}
+
+.mrAuto {
+  margin-right: auto;
+}
+.jSpace {
+  justify-content: space-between;
+}
+.jStart {
+  justify-content: start;
+}
+
+.flexWrap {
+  flex-wrap: wrap;
+}
+.card {
+  padding: 0;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
+.img {
+  max-height: 120px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+
+  /* min-width: 100%; */
+}
+.propertyIcon {
+  flex-direction: column;
+  align-items: "center";
+  justify-content: "center";
+}
+.flexAlCenter {
+  align-items: center;
+}
+.lAlign {
+  text-align: left;
+}
+
+.cAlign {
+  text-align: center;
+}
+
+.cardWidth:hover {
+  transform: translateY(-10px);
+  transition: transform 200ms ease-in-out;
+}
+.icon__hoverState {
+  background-color: #bebdc1;
+}
+.housingIcons {
+  fill: #7a7c83;
+}
+.icon__hoverState:hover {
+  background-color: #009999;
+  color: aqua;
+}
+.contentArea {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+@media only screen and (max-width: 37000px) {
+  .cardWidth {
+    width: calc(100% / 4);
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .cardWidth {
+    width: calc(100% / 3);
+  }
+}
+@media only screen and (max-width: 960px) {
+  .cardWidth {
+    width: calc(100% / 2);
+  }
+}
+@media only screen and (max-width: 630px) {
+  .cardWidth {
+    width: calc(100%);
+  }
+}
