@@ -105,4 +105,7 @@
   .cardWidth {
     width: calc(100%);
   }
+  .header {
+    font-size: 20px;
+  }
 }
